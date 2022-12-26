@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=ankit+kariryaa"
   googlescholar    : "https://scholar.google.com/citations?user=lwSTZGgAAAAJ&hl=en"
-  email            :
+  email            : ak[at]di.ku.dk
   researchgate     : "https://www.researchgate.net/profile/Ankit-Kariryaa/" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ankitkariryaa"
+  github           : "https://github.com/ankitkariryaa/"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          :
   vine             :
   weibo            :
   xing             :
