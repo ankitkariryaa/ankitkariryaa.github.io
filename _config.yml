@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Ankit Kariryaa"
-  avatar           : "Ankit1_small.jpg"
+  avatar           : "Ankit3.jpg"
   bio              : "Data Scientist, Machine Learning Consultant, Deep Learning Researcher, Public Speaker, Sailor and a Postdoctoral Researcher at University of Copenhagen."
   location         : "On the third planet from the sun"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=ankit+kariryaa"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=lwSTZGgAAAAJ&hl=en"
   email            : ak[at]di.ku.dk
   researchgate     : "https://www.researchgate.net/profile/Ankit-Kariryaa/" # example: "https://www.researchgate.net/profile/yourprofile"
@@ -209,15 +209,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-#  # _teaching
-#  - scope:
-#      path: ""
-#      type: teaching
-#    values:
-#      layout: single
-#      author_profile: true
-#      share: true
-#      comments: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
