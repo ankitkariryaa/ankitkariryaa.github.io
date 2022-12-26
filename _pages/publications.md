@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-See [Google Scholar] (https://scholar.google.com/citations?user=lwSTZGgAAAAJ&hl=en) for additional details.
+See [Google Scholar](https://scholar.google.com/citations?user=lwSTZGgAAAAJ&hl=en) for additional details.
 
 **Nation-wide mapping of tree level carbon stocks in Rwanda** \
 Maurice Mugabowindekwe, Martin Brandt, Jerome Chave, Florian Reiner, David Skole,
