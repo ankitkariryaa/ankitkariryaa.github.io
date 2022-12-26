@@ -15,15 +15,20 @@ Jens-Peter Lillesø, Fabian Gieseke, Compton Tucker, Sassan S Saatchi, Rasmus Fe
 Nature Climate Change (2022) \
 [Link](https://www.nature.com/articles/s41558-022-01544-w) | [PDF](https://www.nature.com/articles/s41558-022-01544-w.pdf) | [Code](https://zenodo.org/record/3978185)
 
+**Allometric Equations to Estimate the Dry Mass of Sahel Woody Plants from Very-High Resolution Satellite Imagery**\
+Pierre Hiernaux, Bil-Assanou Hassane Issoufou, Christian Igel, Ankit Kariryaa, Moussa Kourouma, Jérôme Chave, Eric Mougin, Patrice Savadogo.\
+Forest Ecology and Management (2022)\
+[Link](https://www.sciencedirect.com/science/article/abs/pii/S0378112722006478) | [Preprint PDF](https://doi.org/10.2139/ssrn.4166829) 
+
 **Free as a Bird, but at What Cost? The Impact of Street Networks on the User Experience of As-The-Crow-Flies Navigation for Cyclists**\
 Gian-Luca Savino, Ankit Kariryaa, Johannes Schöning.\
-MobileHCI 2022: Proceedings of the International Conference on Human-Computer Interaction with Mobile Devices and Service\
-Honorable Mention Award (2022).\
+MobileHCI 2022: Proceedings of the International Conference on Human-Computer Interaction with Mobile Devices and Service (2022)\
+Honorable Mention Award\
 [Link](https://dl.acm.org/doi/abs/10.1145/3546744) | [PDF](https://dl.acm.org/doi/pdf/10.1145/3546744)
 
 **Understanding user-belief about the privacy threats of browser extensions**\
 Ankit Kariryaa*, Gian-Luca Savino*, Carolin Stellmacher and Johannes Schöning.\
-SOUPS 2021: Seventeenth Symposium on Usable Privacy and Security, SOUPS pp. 99-118 (2021).\
+SOUPS 2021: Seventeenth Symposium on Usable Privacy and Security, SOUPS pp. 99-118 (2021)\
 [Link](https://www.usenix.org/conference/soups2021/presentation/kariryaa) | [PDF](https://www.usenix.org/system/files/soups2021-kariryaa.pdf) | [Slides](https://www.usenix.org/system/files/soups2021_slides_kariryaa.pdf)
 
 **OPTIMADE, an API for exchanging materials data**\
@@ -48,8 +53,8 @@ Jennifer Small, Jerome Chave, Laura Vang Rasmussen, Pierre Hiernaux, Abdoul Aziz
 Laurent Kergoat, Ole Mertz, Christian Igel, Fabian Gieseke, Johannes Schöning, Sizhuo Li,
 Katherine Melocik, Jesse Meyer, Scott Sinno, Eric Romero, Erin Glennie, Amandine Montagu,
 Morgane Dendoncker, Rasmus Fensholt.\
-Nature 587, 78–82 (2020).\
-[Link](https://doi.org/10.1038/s41586-020-2824-5) | [Popular Science Commentary](https://www.nature.com/articles/d41586-020-02830-3) | [Remarkable Discoveries 2020](https://www.nature.com/articles/d41586-020-03514-8)
+Nature 587, 78–82 (2020)\
+[Link](https://doi.org/10.1038/s41586-020-2824-5) | [Popular Science Commentary](https://www.nature.com/articles/d41586-020-02830-3) | [Remarkable Discoveries 2020](https://www.nature.com/articles/d41586-020-03514-8) | [Code](https://zenodo.org/record/3978185)
 
 **The Role of Flag Emoji in Online Political Communication**\
 Ankit Kariryaa, Simon Rundé, Hendrik Heuer, Andreas Jungherr, Johannes Schöning.\
@@ -58,10 +63,11 @@ Social Science Computer Review (2020)\
 
 **MoiPrivacy: Design and evaluation of a Personal Password Meter**\
 Ankit Kariryaa, Johannes Schöning.\
-MUM 2020: In the 19th International Conference on Mobile and Ubiquitous Multimedia, pp. 201-211 (2020). DOI: 
-[Link](https://doi.org/10.1145/3428361.3428397) | [PDF](https://dl.acm.org/doi/pdf/10.1145/3428361.3428397) | [Slides](https://www.usenix.org/system/files/mum20_slides_kariryaa.pdf)
+MUM 2020: In the 19th International Conference on Mobile and Ubiquitous Multimedia, pp. 201-211 (2020) \
+[Link](https://doi.org/10.1145/3428361.3428397) | [PDF](https://dl.acm.org/doi/pdf/10.1145/3428361.3428397) 
 
 **Defining and Predicting the Localness of Volunteered Geographic Information using Ground Truth Data**\
 Ankit Kariryaa, Isaac Johnson, Johannes Schöning, Brent Hecht\
-CHI’ 18: In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (2018).\
+CHI’ 18: In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (2018)\
 [Link](https://dl.acm.org/doi/abs/10.1145/3173574.3173839) | [PDF On](https://dl.acm.org/doi/pdf/10.1145/3173574.3173839)
+
