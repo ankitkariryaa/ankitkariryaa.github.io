@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ankit Kariryaa / Postdoctoral Researcher / University of Copenhagen"
+title                    : "Ankit Kariryaa"
 title_separator          : "-"
 name                     : &name "Ankit Kariryaa"
-description              : &description "Data Scientist, Machine Learning Consultant, Deep Learning Researcher, Public Speaker, Sailor and a Postdoctoral Researcher at University of Copenhagen."
+description              : &description "Personal website of Ankit Kariryaa"
 url                      : https://ankitkariryaa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ankitkariryaa/ankitkariryaa.github.io"
-teaser                   : "Ankit1_small.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Ankit Kariryaa"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "Ankit1_small.jpg"
+  bio              : "Data Scientist, Machine Learning Consultant, Deep Learning Researcher, Public Speaker, Sailor and a Postdoctoral Researcher at University of Copenhagen."
   location         : "On the third planet from the sun"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=ankit+kariryaa"
@@ -191,7 +191,7 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+#  # _posts
 #  - scope:
 #      path: ""
 #      type: posts
@@ -203,13 +203,13 @@ defaults:
 #      share: true
 #      related: true
   # _pages
-#  - scope:
-#      path: ""
-#      type: pages
-#    values:
-#      layout: single
-#      author_profile: true
-  # _teaching
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+#  # _teaching
 #  - scope:
 #      path: ""
 #      type: teaching
@@ -227,7 +227,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+#  # _portfolio
 #  - scope:
 #      path: ""
 #      type: portfolio
@@ -236,7 +236,7 @@ defaults:
 #      author_profile: true
 #      share: true
 #      comment: true
-  # _talks
+#  # _talks
 #  - scope:
 #      path: ""
 #      type: talks
