@@ -7,6 +7,39 @@ author_profile: true
 
 See [Google Scholar](https://scholar.google.com/citations?user=lwSTZGgAAAAJ&hl=en) for additional details.
 
+`*` denotes equal contribution
+
+**Sub-continental-scale carbon stocks of individual trees in African drylands** \
+Compton J. Tucker*, Martin Brandt*, Pierre Hiernaux*, Ankit Kariryaa*,
+Kjeld Rasmussen, Jennifer Small, Christian Igel, Florian Reiner, Katherine Melocik, 
+Jesse Meyer, Scott Sinno, Eric Romero, Erin Glennie, Yasmin Fitts, August Morin, 
+Jorge Pinzon, Devin McClain, Paul Moran, Claire Porter, Shane Loefflet, Laurent Kergoat, 
+Jean-Pierre Wigneron, Benjamin Poulter, Philippe Ciais, and Rasmus Fensholt. \
+Nature 615, 80-86 (2023)\
+[Link](https://doi.org/10.1038/s41586-022-05653-6) | [PDF](https://www.nature.com/articles/s41586-022-05653-6.pdf)
+
+**A consistent assessment of trees inside and outside forests improves estimates of total tree cover in Africa** \
+Florian Reiner, Martin Brandt, Xiaoye Tong, David Skole, Ankit Kariryaa,
+Philippe Ciais, Andrew Davies, Pierre Hiernaux, Jerome Chave, 
+Maurice Mugabowindekwe, Christian Igel, Stefan Oehmcke, Fabian Gieseke, Sizhuo Li, 
+Siyu Liu, Sassan Saatchi, Peter Boucher, Jenia Singh, Simon Taugourdeau, 
+Morgane Dendoncker, Xiao-Peng Song, Ole Mertz, Compton J. Tucker, Rasmus Fensholt. \
+Nature Communications 14, 2258 (2023)\
+[Link](https://www.nature.com/articles/s41467-023-37880-4) | [PDF](https://www.nature.com/articles/s41467-023-37880-4.pdf)
+
+**Deep learning enables image-based tree counting, crown segmentation and height prediction at national scale** \
+Sizhuo Li, Martin Brandt, Rasmus Fensholt, Ankit Kariryaa,
+Christian Igel, Fabian Gieseke, Thomas Nord-Larsen, Stefan Oehmke, 
+Ask Holm-Carlsen, Samuli Junttila, Xiaoye Tong, Alexandre d’Aspremont, Philippe Ciais\
+PNAS Nexus, pgad076 (2023)  \
+[Link](https://doi.org/10.1093/pnasnexus/pgad076) | [PDF](https://academic.oup.com/pnasnexus/article-pdf/2/4/pgad076/49868184/pgad076.pdf)
+
+
+**Detection and mapping of artillery craters with very high spatial resolution satellite imagery and deep learning**\
+Erik C Duncan, Sergii Skakun, Ankit Kariryaa, Alexander V Prishchepov \
+Science of Remote Sensing 7-100092 (2023)\
+[Link](https://www.sciencedirect.com/science/article/pii/S2666017223000172) | [PDF](https://www.sciencedirect.com/science/article/pii/S2666017223000172/pdfft?md5=dea1be4fa44d76598b72462638fd3653&pid=1-s2.0-S2666017223000172-main.pdf)
+
 **Nation-wide mapping of tree level carbon stocks in Rwanda** \
 Maurice Mugabowindekwe, Martin Brandt, Jerome Chave, Florian Reiner, David Skole,
 Ankit Kariryaa, Christian Igel, Pierre Hiernaux, Philippe Ciais, Ole Mertz, Xiaoye Tong,
@@ -18,7 +51,7 @@ Nature Climate Change (2022) \
 **Allometric Equations to Estimate the Dry Mass of Sahel Woody Plants from Very-High Resolution Satellite Imagery**\
 Pierre Hiernaux, Bil-Assanou Hassane Issoufou, Christian Igel, Ankit Kariryaa, Moussa Kourouma, Jérôme Chave, Eric Mougin, Patrice Savadogo.\
 Forest Ecology and Management (2022)\
-[Link](https://www.sciencedirect.com/science/article/abs/pii/S0378112722006478) | [Preprint PDF](https://doi.org/10.2139/ssrn.4166829) 
+[Link](https://www.sciencedirect.com/science/article/abs/pii/S0378112722006478) | [PDF](https://www.sciencedirect.com/science/article/pii/S0378112722006478/pdfft?md5=4a8be79b993b205bf373b399f030b35a&pid=1-s2.0-S0378112722006478-main.pdf) 
 
 **Free as a Bird, but at What Cost? The Impact of Street Networks on the User Experience of As-The-Crow-Flies Navigation for Cyclists**\
 Gian-Luca Savino, Ankit Kariryaa, Johannes Schöning.\
