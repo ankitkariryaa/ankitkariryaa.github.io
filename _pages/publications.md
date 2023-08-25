@@ -10,7 +10,7 @@ See [Google Scholar](https://scholar.google.com/citations?user=lwSTZGgAAAAJ&hl=e
 `*` denotes equal contribution
 
 **Sub-continental-scale carbon stocks of individual trees in African drylands** \
-Compton J. Tucker*, Martin Brandt*, Pierre Hiernaux*, Ankit Kariryaa*,
+Compton J. Tucker\*, Martin Brandt\*, Pierre Hiernaux\*, Ankit Kariryaa\*,
 Kjeld Rasmussen, Jennifer Small, Christian Igel, Florian Reiner, Katherine Melocik, 
 Jesse Meyer, Scott Sinno, Eric Romero, Erin Glennie, Yasmin Fitts, August Morin, 
 Jorge Pinzon, Devin McClain, Paul Moran, Claire Porter, Shane Loefflet, Laurent Kergoat, 
@@ -60,7 +60,7 @@ Honorable Mention Award\
 [Link](https://dl.acm.org/doi/abs/10.1145/3546744) | [PDF](https://dl.acm.org/doi/pdf/10.1145/3546744)
 
 **Understanding user-belief about the privacy threats of browser extensions**\
-Ankit Kariryaa*, Gian-Luca Savino*, Carolin Stellmacher and Johannes Schöning.\
+Ankit Kariryaa\*, Gian-Luca Savino\*, Carolin Stellmacher and Johannes Schöning.\
 SOUPS 2021: Seventeenth Symposium on Usable Privacy and Security, SOUPS pp. 99-118 (2021)\
 [Link](https://www.usenix.org/conference/soups2021/presentation/kariryaa) | [PDF](https://www.usenix.org/system/files/soups2021-kariryaa.pdf) | [Slides](https://www.usenix.org/system/files/soups2021_slides_kariryaa.pdf)
 
