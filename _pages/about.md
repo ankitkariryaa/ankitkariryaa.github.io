@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Ankit Kariryaa. I am a postdoctoral researcher at the [Machine Learning section](https://di.ku.dk/english/research/machine-learning/), [Department of Computer Science](https://di.ku.dk/english/), [Univesity of Copenhagen](https://ku.dk/english/), where I am working with [Christian Igel](https://christian-igel.github.io/), [Rasmus Fensholt](https://ign.ku.dk/english/employees/geography/?pure=en/persons/24386) and others on Remote Sensing for Unlocking Global Ecosystem Resource Dynamics (DeReEco) project. 
+Hi, I am Ankit Kariryaa. I am a tenure-track assistant professor for bridging geo- and AI-sciences, embedded in both the [Department of Geosciences and Natural Resource Management](ign.ku.dk) and the [Department of Computer Science -DIKU](di.ku.dk) at the [University of Copenhagen](ku.dk/english).
+
+
 
 Research Interests
 ======
-My research and teaching interests lie at the intersection of machine learning, computer vision, and remote sensing. In my current position, my research focuses on novel machine learning models to monitor, predict, and simulate changes in ecosystem properties. But I am happy to adorn different hats and move up or down the programming-stack to solve real-world problems.
+My research focuses on machine learning for earth observation (ML4EO). Earth system data is among the most unique and abundant multi-modal data, making it an ideal platform for novel machine learning research. My new position offers an opportunity to continue bringing unique and timely challenges of EO to the ML community and remarkable ML methods to the EO community.  But I am happy to adorn different hats and move up or down the programming-stack to solve real-world problems.
 
 Education
 ======
