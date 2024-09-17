@@ -24,13 +24,19 @@ European Conference on Computer Vision (ECCV) (2024)\
 Ke Huang, Martin Brandt, Pierre Hiernaux, Compton J Tucker, Laura Vang Rasmussen, 
 Florian Reiner, Sizhuo Li, Ankit Kariryaa, Maurice Mugabowindekwe, Bowy den Braber, 
 Jennifer Small, Scott Sino and Rasmus Fensholt. \
-Nature Ecology Evolution (2024) \ 
+Nature Ecology Evolution (2024) \
 [Link](https://doi.org/10.1038/s41559-024-02483-9) | [PDF](https://www.nature.com/articles/s41559-024-02483-9.pdf)
+
+
+**Global mapping of human-transformed dike-pond systems**
+Yang Xu, Lian Feng, Hongwei Fang, Xiao-Peng Song, Fabian Gieseke, Ankit Kariryaa, Stefan Oehmcke, Luke Gibson , Xiating Jiang, Ruimin Lin, R. Iestyn Woolway, Chunmiao Zheng, Martin Brandt and Rasmus Fensholt. \
+Remote Sensing of Environment 313 (2024): 114354 \
+[Link](https://doi.org/10.1016/j.rse.2024.114354) | [PDF](https://www.sciencedirect.com/science/article/pii/S0034425724003808/pdfft?md5=f022ec76cdc9a2242ae6cccfbdc16d67&pid=1-s2.0-S0034425724003808-main.pdf)
 
 
 **Trees on smallholder farms and forest restoration are critical for Rwanda to achieve net zero emissions**
 Maurice Mugabowindekwe, Martin Brandt, Athanase Mukuralinda, Philippe Ciais, Florian Reiner, Ankit Kariryaa, Christian Igel, Jérôme Chave, Ole Mertz, Pierre Hiernaux, Xiaoye Tong, Gaspard Rwanyiziri, Dimitri Gominski, Sizhuo Li, Siyu Liu, Ivan Gasangwa, Yves Hategekimana, Alain Ndoli, Jean Nduwamungu, Sassan S Saatchi and Rasmus Fensholt. \
-Communications Earth & Environment 113, 2662-4435 (2024). \
+Communications Earth & Environment 113, 2662-4435 (2024) \
 [Link](https://doi.org/10.1038/s43247-024-01278-x) | [PDF](https://www.nature.com/articles/s43247-024-01278-x.pdf)
 
 
