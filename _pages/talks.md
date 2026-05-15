@@ -5,6 +5,24 @@ permalink: /talks/
 author_profile: true
 ---
 
+- December 2025: "Large Scale Earth Observation", BigAI for BigGIS course, Indian Institute of Remote Sensing (IIRS), Indian Space Research Organization (ISRO).
+
+- December 2025: "Introduction to Self-supervised Learning and MMEarth", BigAI for BigGIS course, Indian Institute of Remote Sensing (IIRS), Indian Space Research Organization (ISRO).
+
+- December 2025: "Large Scale Earth Observation", Representation Learning for Earth Observation (REO) workshop @ Eurips 2025.
+
+- September 2025: "MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning", Pioneer Centre for AI (P1).
+
+- April 2025: "AI In Research and Teaching", IGNDay 2025 at KU.
+
+- October 2024: "Emissions and uncertainties", Digital Tech Summit 2024.
+
+- October 2024: "Deep learning for earth observation", RISE, Sweden.
+
+- March 2024: "Sustainability from space: mapping individual trees and carbon using AI", Winter Meeting, COMPUTE Research School and AI Lund, University of Lund.
+
+- March 2024: "Deep learning for mapping individual trees and carbon-stocks", FoodDay 24: Plantebaserede pionerer, University of Copenhagen.
+
 - April 2023, Invited talk at [Modeling Talk Series](https://sites.google.com/modelingtalks.org/entry/home) along with Tucker Compton, Martin Brandt, and Pierre Hiernaux on "[Sub-continental-scale carbon stocks of individual trees in African drylands](https://sites.google.com/modelingtalks.org/entry/sub-continental-scale-carbon-stocks-of-individual-trees-in-african-drylands)"
 
 - March 2022: Invited talk at the Workshop on Climate and Conservation at Opening of the Pioneer Centre for AI on "Continental scale tree mapping and biomass estimation: Challenges and learning". 
