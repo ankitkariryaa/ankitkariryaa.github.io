@@ -9,6 +9,18 @@ See [Google Scholar](https://scholar.google.com/citations?user=lwSTZGgAAAAJ&hl=e
 
 `*` denotes equal contribution
 
+**Large driftwood accumulations along arctic coastlines and rivers** \
+Carl Stadie, Martin Brandt, Ingmar Nitze, Xiaoye Tong, Siyu Liu, Ankit Kariryaa, Sizhuo Li, Florian Reiner, Tabea Rettelbach and Guido Grosse. \
+Scientific Reports 15, 32500 (2025)
+
+**Drone imagery for roof detection, classification, and segmentation to support mosquito-borne disease risk assessment: The Nacala-Roof-Material dataset** \
+Venkanna Babu Guthula, Stefan Oehmcke, Remigio Chilaule, Hui Zhang, Nico Lang, Ankit Kariryaa, Johan Mottelson and Christian Igel. \
+Science of Remote Sensing (2025)
+
+**Demosaicing and Neural Network Based Image Reconstruction in the Presence of Noise** \
+Gustav Emil Mark-Hansen, Frederik Henriques Altmann, Christian Igel and Ankit Kariryaa. \
+Scandinavian Conference on Image Analysis (SCIA) (2025)
+
 **Severe decline in large farmland trees in India over the past decade** \
 Martin Brandt\*, Dimitri Gominski\*, Florian Reiner\*, Ankit Kariryaa, Venkanna Babu Guthula, Philippe Ciais, Xiaoye Tong, Wenmin Zhang, Dhanapal Govindarajulu, Daniel Ortiz-Gonzalo, and Rasmus Fensholt. \
 Nature Sustainability 7, 860–868 (2024)\
